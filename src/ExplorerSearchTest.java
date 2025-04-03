@@ -14,4 +14,7 @@ public class ExplorerSearchTest {
         int actual = ExplorerSearch.reachableArea(island);
         assertEquals(14, actual);
     }
+
+    // Add more tests here!
+    // Come up with varied cases
 }
